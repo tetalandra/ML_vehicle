@@ -1,0 +1,61 @@
+manufacturer,model,year,price,fuel_type,transmission
+Toyota,Camry,2020,24000,Gasoline,Automatic
+Honda,Civic,2019,22000,Gasoline,Manual
+Ford,F-150,2021,35000,Diesel,Automatic
+Chevrolet,Malibu,2018,20000,Gasoline,Automatic
+Tesla,Model 3,2022,45000,Electric,Automatic
+BMW,3 Series,2020,40000,Gasoline,Automatic
+Mercedes,C-Class,2021,42000,Gasoline,Automatic
+Audi,A4,2019,38000,Gasoline,Automatic
+Nissan,Altima,2020,23000,Gasoline,Automatic
+Hyundai,Elantra,2021,21000,Gasoline,Automatic
+Toyota,Corolla,2020,20000,Gasoline,Automatic
+Honda,Accord,2021,26000,Gasoline,Automatic
+Ford,Mustang,2022,55000,Gasoline,Manual
+Chevrolet,Silverado,2020,38000,Diesel,Automatic
+Tesla,Model S,2022,80000,Electric,Automatic
+BMW,5 Series,2021,50000,Gasoline,Automatic
+Mercedes,E-Class,2020,55000,Gasoline,Automatic
+Audi,A6,2021,52000,Gasoline,Automatic
+Nissan,Maxima,2019,32000,Gasoline,Automatic
+Hyundai,Sonata,2020,25000,Gasoline,Automatic
+Toyota,RAV4,2021,28000,Gasoline,Automatic
+Honda,CR-V,2020,27000,Gasoline,Automatic
+Ford,Explorer,2021,40000,Gasoline,Automatic
+Chevrolet,Equinox,2019,24000,Gasoline,Automatic
+Tesla,Model X,2022,90000,Electric,Automatic
+BMW,X5,2021,60000,Gasoline,Automatic
+Mercedes,GLC,2020,45000,Gasoline,Automatic
+Audi,Q5,2021,48000,Gasoline,Automatic
+Nissan,Rogue,2020,26000,Gasoline,Automatic
+Hyundai,Tucson,2021,24000,Gasoline,Automatic
+Toyota,Highlander,2020,35000,Gasoline,Automatic
+Honda,Pilot,2021,38000,Gasoline,Automatic
+Ford,Edge,2020,32000,Gasoline,Automatic
+Chevrolet,Traverse,2021,36000,Gasoline,Automatic
+Tesla,Model Y,2022,60000,Electric,Automatic
+BMW,X3,2020,48000,Gasoline,Automatic
+Mercedes,GLE,2021,65000,Gasoline,Automatic
+Audi,Q7,2020,58000,Gasoline,Automatic
+Nissan,Pathfinder,2021,34000,Gasoline,Automatic
+Hyundai,Santa Fe,2020,30000,Gasoline,Automatic
+Toyota,Tacoma,2021,32000,Gasoline,Manual
+Honda,Ridgeline,2020,36000,Gasoline,Automatic
+Ford,Ranger,2021,30000,Diesel,Automatic
+Chevrolet,Colorado,2020,28000,Diesel,Manual
+BMW,X7,2022,75000,Gasoline,Automatic
+Mercedes,GLS,2021,80000,Gasoline,Automatic
+Audi,Q8,2022,72000,Gasoline,Automatic
+Nissan,Frontier,2019,26000,Gasoline,Manual
+Hyundai,Kona,2021,22000,Gasoline,Automatic
+Toyota,Prius,2020,26000,Hybrid,Automatic
+Honda,Insight,2021,24000,Hybrid,Automatic
+Ford,Fusion,2019,23000,Gasoline,Automatic
+Chevrolet,Cruze,2018,18000,Gasoline,Automatic
+BMW,4 Series,2021,46000,Gasoline,Automatic
+Mercedes,A-Class,2020,35000,Gasoline,Automatic
+Audi,A3,2021,36000,Gasoline,Automatic
+Nissan,Sentra,2020,19000,Gasoline,Automatic
+Hyundai,Accent,2019,16000,Gasoline,Manual
+Toyota,Yaris,2020,17000,Gasoline,Automatic
+Honda,Fit,2019,18000,Gasoline,Manual
