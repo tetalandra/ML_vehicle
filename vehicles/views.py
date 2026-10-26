@@ -3,7 +3,7 @@ from django.shortcuts import render
 from .dashboard import frequency_table
 
 def dashboard_view(request):
-    queryset = pd.read_csv("dummy_data/vehicles_data_1000.csv")
+    queryset = pd.read_csv("dummy_data/vehicles_ml_dataset.csv")
     df = pd.DataFrame(queryset)
     
     return render(request, "vehicles/index.html", {
